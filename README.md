@@ -19,6 +19,15 @@ Permite organizar atividades, definir prioridades, acompanhar progresso e gerar 
 
 ---
 
+## 🔑 Conta para Teste
+
+Para facilitar a avaliação do sistema, já existe uma conta de administrador cadastrada:
+
+* **Login:** adm
+* **Senha:** adm
+
+---
+
 ## 🧠 POO Aplicada
 
 * **Abstração:** classes `Usuario` e `Tarefa`
