@@ -63,6 +63,3 @@ python app.py
 
 ---
 
-## ✔ Conclusão
-
-A Questão 1 atende aos requisitos do trabalho, incluindo POO, persistência, interface gráfica, regras de negócio e geração de relatórios.
