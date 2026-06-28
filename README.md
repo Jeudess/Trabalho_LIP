@@ -1,5 +1,10 @@
 # 📝 Sistema de Gerenciamento de Tarefas (Questão 1)
 
+## Integrantes
+- João Eudes Silva Filho - 553166
+- Larissa Kellen Saraiva - 496243
+- Carla Evelyn Colares Inacio - 556574
+
 ## 📌 Descrição
 
 Aplicação desktop para gerenciamento de tarefas pessoais, desenvolvida para a disciplina de Linguagens de Programação.
